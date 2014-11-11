@@ -1,0 +1,21 @@
+--- !ruby/object:Game
+game_word: margarita
+game_spaces:
+- _
+- a
+- r
+- _
+- a
+- r
+- i
+- t
+- a
+TOTAL_CHANCES: 4
+name: Robert
+guesses_guessed:
+- e
+- r
+- i
+- o
+- t
+- a
